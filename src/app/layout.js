@@ -31,7 +31,7 @@ const monoFont = Spline_Sans_Mono({
 
 export const metadata = {
   title: BLOG_TITLE,
-  description: "A wonderful blog about JavaScript",
+  description: "Chris Cooper's personal site",
 };
 
 function RootLayout({ children }) {
